@@ -1,0 +1,10 @@
+= RubeRT
+
+This an experiment in making a Ruby CLI client for
+{Request Tracker}[https://github.com/bestpractical/rt]
+by Best Practical.
+
+Current state: What comes before "alpha?" "Vapor?"
+
+:include:rubert.rdoc
+
